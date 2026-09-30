@@ -1,1 +1,0 @@
-# no system packages needed (python-docx is pure Python)
